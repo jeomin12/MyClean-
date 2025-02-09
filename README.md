@@ -5,7 +5,7 @@ How to edit this:
 
 # cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
 
-This a project assignment template for CP3407. 
+This is a template for CP3407. 
 The following is the list of items, which are required to be completed.
 
 ## How to submit [You may delete this before submitting]
@@ -24,6 +24,14 @@ It is recommended to complete this assignment in a group of 2-4 students.
 
 
 # Assignment-1: project planning BEFORE iteration-1, (see chapters 1-3)
+## Week 1
+- Forming group
+- Discussing about given cleaning websites.
+
+## Week 2 
+- Understanding the project requirements.
+- Creating user stories.
+
 Checklist/TODOs: 
 * Update the following during each week prac session
 * github entry timestamp is BEFORE the iteration-1
