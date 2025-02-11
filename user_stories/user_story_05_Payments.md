@@ -1,4 +1,4 @@
-# User story title: Setup Payment
+# User story title: Payments
 
 ## Priority: 10 (e.g. latest for iteration-1)
 
@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : I want to receive payments securely through the platform.
+Version 1 : I want to send and receive payments securely through the platform.
 
 ## Tasks, see chapter 4.
 
