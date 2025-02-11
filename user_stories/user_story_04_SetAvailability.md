@@ -1,7 +1,7 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: Register and Create a Profile for Individual cleaners.
+# User story title: Set Availability
 
 ## Priority: 10 (e.g. latest for iteration-1)
 
@@ -15,7 +15,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : Register and create a profile with all details about the cleaners. Give account of their skills, experience, availability, and service areas.
+Version 1 : Cleaners are able to set their available days and hours
 
 ## Tasks, see chapter 4.
 

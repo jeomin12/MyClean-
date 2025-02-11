@@ -8,6 +8,8 @@ Checklist:
 * Number of developers: ??
 * Total estimated amount of work: YY days
 
+
+To do:
 User stories or tasks (see chapter 4):
 1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
 2. ...
