@@ -1,4 +1,4 @@
-# User story title: Notifications when service is booked
+# User story title: Report and Refund request
 
 ## Priority: 10 (e.g. latest for iteration-1)
 
@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : As an individual cleaner, I want to receive notifications when a customer books my services.
+Version 1 : As a customer, I want to report service issues and request refund if the quality of the work is not good.
 
 ## Tasks, see chapter 4.
 
