@@ -1,3 +1,4 @@
+
 # User story title: Payments
 
 ## Priority: 10 (e.g. latest for iteration-1)
@@ -12,9 +13,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : I want to receive payments securely through the platform.
-
-Version 2 : I want to send and receive payments securely through the platform.
+I want to send and receive payments securely through the platform.
 
 ## Tasks, see chapter 4.
 
@@ -23,9 +22,8 @@ Version 2 : I want to send and receive payments securely through the platform.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot for Payment system. https://ninjamock.com/Designer/Workplace/202376642/CheckoutPage02
+![Screenshot 2025-02-13 143322](https://github.com/user-attachments/assets/a513c750-1f7a-4e68-9009-012e3cbd6285)
 
 # Completed:
 * (New, not in the textbook) 
