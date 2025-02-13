@@ -1,5 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
 # User story title: Register and Create a Profile for Individual cleaners.
 
@@ -22,10 +20,9 @@ Version 1 : Register and create a profile with all details about the cleaners. G
 1. Task 1, Estimation XX days
 2. ...
 
-
 # UI Design:
 * Mockup design screenshot for Signup Page,(https://ninjamock.com/Designer/Workplace/202371224/SignupPage01)
-![Screenshot (123)](https://github.com/user-attachments/assets/30225ed0-1ddf-454b-8eb4-e48796ae2c6a)
+![Screenshot 2025-02-13 145031](https://github.com/user-attachments/assets/48aaa55b-70eb-4bf8-a81f-10c048a85354)
 
 # Completed:
 * (New, not in the textbook) 
