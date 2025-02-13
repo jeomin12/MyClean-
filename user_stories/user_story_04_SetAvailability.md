@@ -1,5 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
 # User story title: Set Availability
 
@@ -24,9 +22,8 @@ Version 1 : Cleaners are able to set their available days and hours
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot of Availability Page, https://ninjamock.com/Designer/Workplace/202371224/Team
+![Screenshot 2025-02-13 111335](https://github.com/user-attachments/assets/2e112e52-f399-42ae-97ae-232f60a1e144)
 
 # Completed:
 * (New, not in the textbook) 
