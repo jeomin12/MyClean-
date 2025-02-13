@@ -1,4 +1,4 @@
-# User story title: Booking Confirmation Message
+# User story title: Customer Support
 
 ## Priority: 10 (e.g. latest for iteration-1)
 
@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-As a customer I need to get booking confirmation message in mobile phone.
+As a customer I need to use services like help center, live chat support, FAQs.
 
 ## Tasks, see chapter 4.
 
