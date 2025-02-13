@@ -21,9 +21,10 @@ As a customer, I want to communicate with cleaners without providing my email or
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot of private communication. https://ninjamock.com/Designer/Workplace/202376642/ContactPage01
+
+* ![Screenshot 2025-02-13 142131](https://github.com/user-attachments/assets/9bc0cc91-3428-40c6-aa3d-2cc9a80ec96b)
+
 
 # Completed:
 * (New, not in the textbook) 
