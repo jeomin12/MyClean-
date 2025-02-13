@@ -1,4 +1,5 @@
-# User story title: RatingSystem
+
+# User story title: Rating System
 
 ## Priority: 10 (e.g. latest for iteration-1)
 
@@ -12,7 +13,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : I want to see performance ratings and reviews for each of my cleaners.
+I want to see performance ratings and reviews for each of my cleaners.
 
 ## Tasks, see chapter 4.
 
@@ -21,9 +22,8 @@ Version 1 : I want to see performance ratings and reviews for each of my cleaner
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot for rating system, https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
+![Screenshot 2025-02-13 214556](https://github.com/user-attachments/assets/2883ae03-4dd3-41da-a36c-10bc2c2f46a1)
 
 # Completed:
 * (New, not in the textbook) 
