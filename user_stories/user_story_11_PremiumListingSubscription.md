@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : As a cleaning company, I want to subscribe to premium listings so that I can get more visibility and attract high-value customers
+As a cleaning company, I want to subscribe to premium listings so that I can get more visibility and attract high-value customers
 
 ## Tasks, see chapter 4.
 
@@ -21,9 +21,8 @@ Version 1 : As a cleaning company, I want to subscribe to premium listings so th
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot of premium listing subscription. https://ninjamock.com/Designer/Workplace/202376642/PricingPage01
+![Screenshot 2025-02-13 141427](https://github.com/user-attachments/assets/8aecc069-ed33-44c1-b3fa-3f2a0cc41b14)
 
 # Completed:
 * (New, not in the textbook) 
