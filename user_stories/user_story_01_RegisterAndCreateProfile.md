@@ -24,9 +24,8 @@ Version 1 : Register and create a profile with all details about the cleaners. G
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot for Signup Page,(https://ninjamock.com/Designer/Workplace/202371224/SignupPage01)
+![Screenshot (123)](https://github.com/user-attachments/assets/30225ed0-1ddf-454b-8eb4-e48796ae2c6a)
 
 # Completed:
 * (New, not in the textbook) 
