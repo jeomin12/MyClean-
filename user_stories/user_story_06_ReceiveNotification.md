@@ -22,7 +22,7 @@ Version 1 : As an individual cleaner, I want to receive notifications when a cus
 
 # UI Design:
 - Mockup design screenshot for receiving notification. https://ninjamock.com/Designer/Workplace/202376642/ResetPasswordSTEP2
-![alt text](<Screenshot 2025-02-13 144304-1.png>)
+![Screenshot 2025-02-13 144304](https://github.com/user-attachments/assets/4b3746c4-b92a-4040-83b6-8051a41072f3)
 
 # Completed:
 * (New, not in the textbook) 
