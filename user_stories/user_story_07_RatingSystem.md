@@ -21,9 +21,9 @@ I want to see performance ratings and reviews for each of my cleaners.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot for rating system, https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
+
+(<Screenshot 2025-02-13 214556.png>)
 
 # Completed:
 * (New, not in the textbook) 

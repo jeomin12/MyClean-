@@ -21,10 +21,9 @@ As a customer I need to use services like help center, live chat support, FAQs.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot of FAQs page,https://ninjamock.com/Designer/Workplace/202376642/FaqPage01
 
+!(<Screenshot 2025-02-17 124513.png>)
 # Completed:
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
