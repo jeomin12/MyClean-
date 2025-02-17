@@ -1,4 +1,4 @@
-# User story title: RatingSystem
+# User story title: Rating System
 
 ## Priority: 10 (e.g. latest for iteration-1)
 
@@ -21,9 +21,9 @@ Version 1 : I want to see performance ratings and reviews for each of my cleaner
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot for Rating system,https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
+
+user_stories/Screenshot 2025-02-13 214556.png
 
 # Completed:
 * (New, not in the textbook) 
