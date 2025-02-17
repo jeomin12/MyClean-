@@ -22,6 +22,7 @@ As a customer I need to use services like help center, live chat support, FAQs.
 
 # UI Design:
 * Mockup design screenshot of FAQs page,https://ninjamock.com/Designer/Workplace/202376642/FaqPage01
+![Screenshot 2025-02-17 124513](https://github.com/user-attachments/assets/5f148f77-275e-457d-8ffa-ffb50886caa3)
 
 # Completed:
 * (New, not in the textbook) 
