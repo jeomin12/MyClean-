@@ -32,6 +32,12 @@ It is recommended to complete this assignment in a group of 2-4 students.
 - Understanding the project requirements.
 - Creating user stories.
 
+## Week 3
+- Start working on user stories in Kanban board.
+
+## Week 4
+- Break out user stories into tasks and start developing the website.
+- 
 Checklist/TODOs: 
 * Update the following during each week prac session
 * github entry timestamp is BEFORE the iteration-1
