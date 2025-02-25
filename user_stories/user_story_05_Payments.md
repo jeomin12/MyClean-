@@ -23,7 +23,7 @@ I want to send and receive payments securely through the platform.
 
 # UI Design:
 * Mockup design screenshot for Payment system. https://ninjamock.com/Designer/Workplace/202376642/CheckoutPage02
-![Screenshot 2025-02-13 143322](https://github.com/user-attachments/assets/a513c750-1f7a-4e68-9009-012e3cbd6285)
+![Screenshot 2025-02-25 135801](https://github.com/user-attachments/assets/93b5320f-3ae0-4bf5-8e95-6e70c6040768)
 
 # Completed:
 * (New, not in the textbook) 
