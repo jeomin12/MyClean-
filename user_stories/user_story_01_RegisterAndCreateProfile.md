@@ -17,8 +17,7 @@
 ## Description: 
 Version 1 : Register and create a profile with all details about the cleaners. Give account of their skills, experience, availability, and service areas.
 
-## Tasks, see chapter 4.
-
+## Tasks:.
 1. Create a registration form for new users (half day)
     - Design the form layout
     - Implement the form using HTML/CSS
