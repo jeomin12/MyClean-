@@ -4,21 +4,31 @@
 ## Priority: 10 (e.g. latest for iteration-1)
 
 ## Estimation: e.g. 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Lean: 1 day (e.g. estimated before iteration-1)
 * Jeomin: 2 days
 - Dea : 2 days
 * Adithyan: 3 days
 
 ## Assumptions (if any):
+- Users have internet access
+- Users will provide accurate and complete information.
+- The system will handle basic validation of input data.
 
 ## Description: 
 Version 1 : Register and create a profile with all details about the cleaners. Give account of their skills, experience, availability, and service areas.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Create a registration form for new users (half day)
+    - Design the form layout
+    - Implement the form using HTML/CSS
+    - Add basic styling for user experience
+2. Implement form validation to ensure accurate data entry (half day)
+    - Client-side validation (temporarily)
+3. Develop a user profile page to display cleaner information (1 day)
+    - Design the profile page layout
+    - Implement the form using HTML/CSS
+    - Add basic styling for user experience
 
 # UI Design:
 * Mockup design screenshot for Signup Page,(https://ninjamock.com/Designer/Workplace/202371224/SignupPage01)

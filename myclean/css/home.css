@@ -1,0 +1,95 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo {
+    width: 150px;
+    margin: 10px 20px;
+}
+header nav ul {
+    list-style: none;
+    margin: 10px 20px;
+    padding: 0;
+    display: flex;
+}
+header nav ul li {
+    margin-left: 20px;
+}
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Hero Section */
+.hero {
+    background: url('/myclean/assets/hero-background.jpg') no-repeat center center/cover;
+    color: black;
+    padding: 50px 0;
+    text-align: center;
+}
+.hero .cta {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+}
+.hero .cta:hover {
+    background-color: #0056b3;
+}
+
+/* Features Section */
+.features {
+    background-color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+.features .feature-item {
+    margin-bottom: 20px;
+}
+
+/* Testimonials Section */
+.testimonials {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+.testimonials .testimonial-item {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+footer .social-icons {
+    margin-top: 10px;
+}
+footer .social-icons img {
+    width: 24px;
+    margin: 0 5px;
+}

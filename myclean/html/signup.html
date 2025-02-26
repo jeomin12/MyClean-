@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyClean Cleaning Company - Sign Up</title>
+    <link rel="stylesheet" href="/myclean/css/signup.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="left">
+            <img src="/myclean/assets/company-logo.png" alt="company-logo">
+            <p>MyClean is an innovative platform designed to simplify booking management for individual cleaners and cleaning companies. It offers an intuitive and efficient system for both service providers and customers.</p>
+            <div class="social-icons">
+                <p>Sign up with social media</p>
+                <a href="https://www.facebook.com"><img src="/myclean/assets/facebook-icon.png" alt="Facebook"></a>
+                <a href="https://x.com"><img src="/myclean/assets/twitter-icon.png" alt="Twitter (X)"></a>
+                <a href="https://www.instagram.com"><img src="/myclean/assets/instagram-icon.png" alt="Instagram"></a>
+            </div>
+        </div>
+        <div class="right">
+            <h2>Create an account</h2>
+            <p>Create your account, it takes less than a minute. If you already have an account <a href="#">login</a>.</p>
+            <form action="/register" method="POST">
+                <input type="text" name="full_name" placeholder="Full name" required>
+                <input type="email" name="email" placeholder="E-mail address" required>
+                <input type="password" name="password" placeholder="Password" required>
+                <input type="password" name="confirm_password" placeholder="Confirm Password" required>
+                <button type="submit">Sign up</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
