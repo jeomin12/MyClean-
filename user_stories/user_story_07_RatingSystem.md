@@ -22,8 +22,7 @@ I want to see performance ratings and reviews for each of my cleaners.
 
 # UI Design:
 * Mockup design screenshot for rating system, https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
-
-(<Screenshot 2025-02-13 214556.png>)
+![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/32ad9f2d-b75b-4072-ad48-b00713d4b196)
 
 # Completed:
 * (New, not in the textbook) 
