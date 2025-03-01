@@ -12,8 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : As a customer, I want to schedule weekly or monthly cleaning, so that I don’t have to book manually each time.
-
+As a customer, I want to 
 ## Tasks, see chapter 4.
 
 1. Task 1, Estimation XX days
@@ -21,9 +20,7 @@ Version 1 : As a customer, I want to schedule weekly or monthly cleaning, so tha
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+
 
 # Completed:
 * (New, not in the textbook) 
