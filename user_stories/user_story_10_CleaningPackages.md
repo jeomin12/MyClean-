@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : As a cleaning company, I want to create different cleaning packages so that the customer can choose the best option for their needs.
+As a cleaning company, I want to display the cleaning packages offered by my company.
 
 ## Tasks, see chapter 4.
 
@@ -21,9 +21,8 @@ Version 1 : As a cleaning company, I want to create different cleaning packages 
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+*  Mockup design screenshot of cleaning Package: https://ninjamock.com/Designer/Workplace/202376642/Page1
+![Screenshot 2025-03-01 162402](https://github.com/user-attachments/assets/85a6cc6a-bf0f-48bb-862c-acf532448944)
 
 # Completed:
 * (New, not in the textbook) 
