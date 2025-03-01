@@ -21,9 +21,8 @@ As a customer, I want to know that the cleaners have undergone background checks
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot for rating system, https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
+![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/32ad9f2d-b75b-4072-ad48-b00713d4b196)
 
 # Completed:
 * (New, not in the textbook) 
