@@ -36,8 +36,11 @@ It is recommended to complete this assignment in a group of 2-4 students.
 - Start working on user stories in Kanban board.
 
 ## Week 4
-- Break out user stories into tasks and start developing the website.
-- 
+- Break out user stories into tasks
+- Start developing the website.
+
+- User Stories:
+- https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md
 Checklist/TODOs: 
 * Update the following during each week prac session
 * github entry timestamp is BEFORE the iteration-1
