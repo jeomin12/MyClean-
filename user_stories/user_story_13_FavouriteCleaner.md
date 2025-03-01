@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : I want to book appointment for certain cleaner.
+I want to give ratings and thus find the favourite cleaner.
 
 ## Tasks, see chapter 4.
 
@@ -21,9 +21,9 @@ Version 1 : I want to book appointment for certain cleaner.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot of favourite cleaner. https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
+  ![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/ee0c9d2f-a019-4869-8949-a9f7b88cb2fb)
+
 
 # Completed:
 * (New, not in the textbook) 
