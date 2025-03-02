@@ -3,7 +3,7 @@ How to edit this:
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
-# cp3407-project-v2024 template 
+# cp3407-Project-v2024  
 
 ## Team
 
@@ -42,22 +42,22 @@ Total: YY days
 ##  User Stories:
 * [user_story_01_Register And Create Profile](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority XX, YY days 
 * [user_story_02_Booking Request](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_02_BookingRequest.md), priority XX, YY days 
-*[user_story_03_Update](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_03_Update.md), priority XX, YY days 
-*[user_story_04_Set Availability](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_04_SetAvailability.md), priority XX, YY days 
-*[user_story_05_Payments](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_05_Payments.md), priority XX, YY days 
-*[user_story_06_Receive Notification](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_06_ReceiveNotification.md), priority XX, YY days 
-*[user_story_07_Rating System](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_07_RatingSystem.md), priority XX, YY days 
-*[user_story_08_Task Monitoring](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority XX, YY days 
-*[user_story_09_Report And Refund Request](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), priority XX, YY days 
-*[user_story_10_Cleaning Packages](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_10_CleaningPackages.md), priority XX, YY days 
-*[user_story_11_Premium Listing Subscription](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_11_PremiumListingSubscription.md), priority XX, YY days 
-*[user_story_12_Display Company Website](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), priority XX, YY days 
-*[user_story_13_FavouriteCleaner](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_13_FavouriteCleaner.md), priority XX, YY days 
-*[user_story_14_Recurring Cleaning Schedule](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_14_RecurringCleaningSchedule.md), priority XX, YY days 
-*[user_story_15_Background Verification](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_15_BackgroundVerification.md), priority XX, YY days 
-*[user_story_16_Private Communication](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority XX, YY days 
-*[user_story_17_Customer Support](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_17_CustomerSupport.md), priority XX, YY days 
-*[user_story_18_Cleaner Search And Filter](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority XX, YY days 
+* [user_story_03_Update](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_03_Update.md), priority XX, YY days 
+* [user_story_04_Set Availability](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_04_SetAvailability.md), priority XX, YY days 
+* [user_story_05_Payments](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_05_Payments.md), priority XX, YY days 
+* [user_story_06_Receive Notification](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_06_ReceiveNotification.md), priority XX, YY days 
+* [user_story_07_Rating System](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_07_RatingSystem.md), priority XX, YY days 
+* [user_story_08_Task Monitoring](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority XX, YY days 
+* [user_story_09_Report And Refund Request](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), priority XX, YY days 
+* [user_story_10_Cleaning Packages](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_10_CleaningPackages.md), priority XX, YY days 
+* [user_story_11_Premium Listing Subscription](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_11_PremiumListingSubscription.md), priority XX, YY days 
+* [user_story_12_Display Company Website](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), priority XX, YY days 
+* [user_story_13_FavouriteCleaner](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_13_FavouriteCleaner.md), priority XX, YY days 
+* [user_story_14_Recurring Cleaning Schedule](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_14_RecurringCleaningSchedule.md), priority XX, YY days 
+* [user_story_15_Background Verification](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_15_BackgroundVerification.md), priority XX, YY days 
+* [user_story_16_Private Communication](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority XX, YY days 
+* [user_story_17_Customer Support](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_17_CustomerSupport.md), priority XX, YY days 
+* [user_story_18_Cleaner Search And Filter](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority XX, YY days 
 
 
 
