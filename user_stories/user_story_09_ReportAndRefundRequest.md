@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: 
-Version 1 : As a customer, I want to report service issues and request refund if the quality of the work is not good.
+As a customer, I want to report service issues and request refund if the quality of the work is not good.
 
 ## Tasks, see chapter 4.
 
@@ -21,9 +21,9 @@ Version 1 : As a customer, I want to report service issues and request refund if
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Mockup design screenshot of report and refund page. https://ninjamock.com/Designer/Workplace/202376642/Page3
+* ![Screenshot 2025-03-02 170036](https://github.com/user-attachments/assets/eaf6c467-cb17-40ec-8eb2-d4cf879ff6d3)
+
 
 # Completed:
 * (New, not in the textbook) 
