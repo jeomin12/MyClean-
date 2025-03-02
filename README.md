@@ -3,20 +3,11 @@ How to edit this:
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
-
-This is a template for CP3407. 
-The following is the list of items, which are required to be completed.
-
-## How to submit [You may delete this before submitting]
-
-2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
-1. Submit link to your repository
-2. Download your github repository as a zip file and submit via LearnJCU.
+# cp3407-project-v2024 template 
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
+Group members:
 1. Lean Delos Santos
 2. Jeomin Gimmi
 3. Dea Roys
@@ -32,15 +23,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 - Understanding the project requirements.
 - Creating user stories.
 
-## Week 3
-- Start working on user stories in Kanban board.
 
-## Week 4
-- Break out user stories into tasks
-- Start developing the website.
-
-- User Stories:
-- https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md
 Checklist/TODOs: 
 * Update the following during each week prac session
 * github entry timestamp is BEFORE the iteration-1
@@ -50,6 +33,14 @@ Checklist/TODOs:
 * ...
 
 Total: YY days
+## Week 3
+- Start working on user stories in Kanban board.
+
+## Week 4
+- Break out user stories into tasks
+- Start developing the website.
+##  User Stories:
+* [user_story_01_Register And Create Profile](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority XX, YY days 
 
 
 # Assignment-2: Iterations

@@ -4,10 +4,10 @@
 ## Priority: 10 (e.g. latest for iteration-1)
 
 ## Estimation: e.g. 2 days
-* Lean: 1 day (e.g. estimated before iteration-1)
-* Jeomin: 2 days
-- Dea : 2 days
-* Adithyan: 3 days
+* Lean: 0.5 day (e.g. estimated before iteration-1)
+* Jeomin: 1 days
+- Dea : 1 days
+* Adithyan: 1 days
 
 ## Assumptions (if any):
 - Users have internet access
