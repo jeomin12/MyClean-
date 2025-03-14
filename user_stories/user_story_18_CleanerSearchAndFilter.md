@@ -16,8 +16,7 @@ As a customer, I want the ability to search for and request cleaners
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Create a sea
 
 
 # UI Design:

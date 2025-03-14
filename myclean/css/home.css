@@ -68,6 +68,19 @@ header nav ul li a:hover {
 .features .feature-item {
     margin-bottom: 20px;
 }
+.features .cta {
+    background-color: #f8cb00;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+}
+.features .cta:hover {
+    background-color: #f8a100;
+}
 
 /* Testimonials Section */
 .testimonials {
