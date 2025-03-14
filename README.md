@@ -58,6 +58,7 @@ Total: YY days
 * [user_story_16_Private Communication](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority XX, YY days 
 * [user_story_17_Customer Support](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_17_CustomerSupport.md), priority XX, YY days 
 * [user_story_18_Cleaner Search And Filter](https://github.com/jeomin12/MyClean-/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority XX, YY days 
+* Sample User Story text
 
 
 
