@@ -3,9 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Car Servicing</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <p>This is the booking page</p>
+    <div class="container">
+        <div class="left-section">
+            <h1>Car servicing made easy</h1>
+            <p>Get instant quotes and book</p>
+        </div>
+        <div class="right-section">
+            <form>
+                <h2>Enter your details to get started</h2>
+                <label for="type">What type of service?</label>
+                <select id="type" name="type">
+                    <option value="">residential cleaning</option>
+                    <option value="">commercial cleaning</option>
+                    <option value="">speciality cleaning</option>
+                </select>
+                <label for="place">Where do you want the service?</label>
+                <input type="text" id="place" name="place" placeholder="Enter your address">
+                </select>
+                <label for="date">When do you want it done?</label>
+                <input type="text" id="date" name="date" placeholder="Enter postcode or suburb">
+                <button type="submit">Get quotes</button>
+            </form>
+        </div>
+    </div>
 </body>
 </html>
