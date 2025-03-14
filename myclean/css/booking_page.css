@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f4f8;
+    background-color: #e3f2fd; /* Light blue background */
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
 
 .left-section {
     flex: 1;
-    background: linear-gradient(135deg, #e0f7fa, #a7ffeb);
+    background: linear-gradient(135deg, #bbdefb, #90caf9); /* Gradient with shades of blue */
     padding: 40px;
     color: #333;
 }
@@ -67,12 +67,12 @@ form button {
     padding: 10px;
     font-size: 16px;
     color: white;
-    background-color: #00c853;
+    background-color: #2196f3; /* Blue button */
     border: none;
     border-radius: 4px;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #00bfa5;
+    background-color: #1e88e5; /* Darker blue on hover */
 }

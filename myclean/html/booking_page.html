@@ -9,23 +9,22 @@
 <body>
     <div class="container">
         <div class="left-section">
-            <h1>Car servicing made easy</h1>
+            <h1>Find cleaners in your area</h1>
             <p>Get instant quotes and book</p>
         </div>
         <div class="right-section">
             <form>
-                <h2>Enter your details to get Started</h2>
+                <h2>Enter your details to get started</h2>
                 <label for="type">What type of service?</label>
                 <select id="type" name="type">
-                    <option value="">residential cleaning</option>
-                    <option value="">commercial cleaning</option>
-                    <option value="">speciality cleaning</option>
+                    <option value="">Residential Cleaning</option>
+                    <option value="">Commercial Cleaning</option>
+                    <option value="">Speciality Cleaning</option>
                 </select>
                 <label for="place">Where do you want the service?</label>
-                <input type="text" id="place" name="place" placeholder="Enter your address">
-                </select>
+                <input type="text" id="place" name="place" placeholder="e.g. 123 ABC Street, Cairns, Queensland">
                 <label for="date">When do you want it done?</label>
-                <input type="text" id="date" name="date" placeholder="Enter postcode or suburb">
+                <input type="text" id="date" name="date" placeholder="DD/MM/YYYY" pattern="\d{2}/\d{2}/\d{4}" title="DD/MM/YYYY">
                 <button type="submit">Get quotes</button>
             </form>
         </div>
