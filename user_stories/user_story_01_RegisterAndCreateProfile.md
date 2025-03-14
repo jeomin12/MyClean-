@@ -1,21 +1,20 @@
 
 # User story title: Register and Create a Profile for Individual cleaners.
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: 10 
+## Estimation: 1 day
+- Lean: 0.5 day
+- Jeomin: 1 day
+- Dea : 1 day
+- Adithyan: 1 day
 
-## Estimation: e.g. 2 days
-* Lean: 0.5 day (e.g. estimated before iteration-1)
-* Jeomin: 1 days
-- Dea : 1 days
-* Adithyan: 1 days
-
-## Assumptions (if any):
+## Assumptions:
 - Users have internet access
 - Users will provide accurate and complete information.
 - The system will handle basic validation of input data.
 
 ## Description: 
-Version 1 : Register and create a profile with all details about the cleaners. Give account of their skills, experience, availability, and service areas.
+- Iteration 1 : Register and create a profile with all details about the cleaners. Give account of their skills, experience, availability, and service areas.
 
 ## Tasks:.
 1. Create a registration form for new users (half day)
@@ -23,7 +22,7 @@ Version 1 : Register and create a profile with all details about the cleaners. G
     - Implement the form using HTML/CSS
     - Add basic styling for user experience
 2. Implement form validation to ensure accurate data entry (half day)
-    - Client-side validation (temporarily)
+    - Client-side validation (temporary)
 3. Develop a user profile page to display cleaner information (1 day)
     - Design the profile page layout
     - Implement the form using HTML/CSS
@@ -34,7 +33,4 @@ Version 1 : Register and create a profile with all details about the cleaners. G
 ![Screenshot 2025-02-13 145031](https://github.com/user-attachments/assets/48aaa55b-70eb-4bf8-a81f-10c048a85354)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
-
+*To do* add a screenshot of the completed user story
