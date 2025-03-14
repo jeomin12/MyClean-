@@ -23,7 +23,8 @@ As a customer, I want the ability to seaXh for and request cleaners
 
 
 # UI Design:
-*To do* Create a mock up and add screenshot
+* Create a mock up and add screenshot: https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
+  ![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/ee0c9d2f-a019-4869-8949-a9f7b88cb2fb)
 
 # Completed:
 *To do* add a screenshot of the completed user story

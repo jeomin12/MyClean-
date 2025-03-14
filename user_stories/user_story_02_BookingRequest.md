@@ -31,7 +31,9 @@ As a user, I want to create a booking request for cleaning services
 
 
 # UI Design:
-*To do* Create a mock up and add screenshot
+* Create a mock up and add screenshot:
+  ![booking_request](https://github.com/user-attachments/assets/d28d3e18-58d0-40f2-b47f-6687589d11ad)
+
 
 # Completed:
 *To do* add a screenshot of the completed user story
